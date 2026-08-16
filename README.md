@@ -54,7 +54,6 @@ Supported feature development, bug fixes, and API testing across internal projec
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunil5058&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil5058&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 <p align="center">
