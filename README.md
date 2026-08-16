@@ -50,18 +50,6 @@ Supported feature development, bug fixes, and API testing across internal projec
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil5058&hide_border=true&theme=default" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunil5058&theme=github-compact&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
 ### 📫 Reach me
 
 [Portfolio](https://sunil-stha.vercel.app) · [LinkedIn](https://linkedin.com/in/sunil-shrestha-760906363) · [Email](mailto:sunilshrestha@gmail.com)
