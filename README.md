@@ -53,10 +53,6 @@ Supported feature development, bug fixes, and API testing across internal projec
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunil5058&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil5058&hide_border=true&theme=default" alt="GitHub streak" />
 </p>
 
