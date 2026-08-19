@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer @ Irys Tech Pvt. Ltd. — Kathmandu, Nepal</h3>
 
 <p align="center">
-  I build reliable backend systems with Node.js, Express.js, MongoDB, and Docker — focused on clean APIs, secure data handling, and deployment-ready services. Currently pursuing my Bachelor's in Computing, and sharpening my DSA fundamentals along the way.
+  I build reliable backend systems with Node.js, Express.js, MongoDB, and Docker — focused on clean APIs, secure data handling, and deployment-ready services. Currently pursuing my Bachelor's in Computing.
 </p>
 
 <p align="center">
