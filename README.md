@@ -48,7 +48,6 @@ Supported feature development, bug fixes, and API testing across internal projec
 - Docker-based deployment workflows
 - Writing backend code that's easy to understand, test, and debug over time
 
----
 
 ### 📫 Reach me
 
