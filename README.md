@@ -33,7 +33,7 @@
 
 ### 💼 Experience
 
-**Backend Developer** — Irys Tech Pvt. Ltd. — *Apr 2026 – Present*
+**Backend Developer** Irys Tech Pvt. Ltd. — *Apr 2026 – Present*
 Building and maintaining backend services with Node.js, Express.js, and MongoDB. Contributing to API design, validation, debugging, Docker-based workflows, and Git-based collaboration.
 
 **Backend Developer Intern** — Irys Tech Pvt. Ltd. — *Jan 2026 – Mar 2026*
