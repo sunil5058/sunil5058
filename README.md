@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sunil Shrestha 👋</h1>
-<h3 align="center">Backend Developer @ Irys Tech Pvt. Ltd. — Kathmandu, Nepal</h3>
+<h3 align="center">Backend Developer @ Irys Tech Pvt. Ltd. Kathmandu, Nepal</h3>
 
 <p align="center">
   I build reliable backend systems with Node.js, Express.js, MongoDB, and Docker — focused on clean APIs, secure data handling, and deployment-ready services. Currently pursuing my Bachelor's in Computing.
