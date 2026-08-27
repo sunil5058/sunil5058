@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech stack
+###  Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 💼 Experience
+###  Experience
 
 **Backend Developer** Irys Tech Pvt. Ltd. — *Apr 2026 – Present*
 Building and maintaining backend services with Node.js, Express.js, and MongoDB. Contributing to API design, validation, debugging, Docker-based workflows, and Git-based collaboration.
@@ -55,4 +55,4 @@ Supported feature development, bug fixes, and API testing across internal projec
 
 ---
 
-<p align="center"><i>Currently learning DSA to build stronger problem-solving skills.</i></p>
+<p align="center"><i>Currently learning Go.</i></p>
