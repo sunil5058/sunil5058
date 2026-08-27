@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sunil-stha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sunil-stha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?styhttps://github.com/sunil5058/sunil5058/edit/main/README.mdle=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/sunil-shrestha-760906363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sunilshrestha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -41,7 +41,7 @@ Supported feature development, bug fixes, and API testing across internal projec
 
 ---
 
-### 🚀 What I focus on
+### What I focus on
 
 - Designing clean, secure, well-validated REST APIs
 - Database modeling and schema design in MongoDB
@@ -49,7 +49,7 @@ Supported feature development, bug fixes, and API testing across internal projec
 - Writing backend code that's easy to understand, test, and debug over time
 
 
-### 📫 Reach me
+### Reach me
 
 [Portfolio](https://sunil-stha.vercel.app) · [LinkedIn](https://linkedin.com/in/sunil-shrestha-760906363) · [Email](mailto:sunilshrestha@gmail.com)
 
