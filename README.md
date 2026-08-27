@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sunil Shrestha 👋</h1>
+<h1 align="center">Hi, I'm Sunil Shrestha </h1>
 <h3 align="center">Backend Developer @ Irys Tech Pvt. Ltd. Kathmandu, Nepal</h3>
 
 <p align="center">
