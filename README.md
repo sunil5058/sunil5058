@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
+
 
 ###  Experience
 
@@ -39,7 +39,7 @@ Building and maintaining backend services with Node.js, Express.js, and MongoDB.
 **Backend Developer Intern** — Irys Tech Pvt. Ltd. — *Jan 2026 – Mar 2026*
 Supported feature development, bug fixes, and API testing across internal projects. Practiced REST API conventions, MongoDB modeling, server-side JavaScript patterns, and production code review habits.
 
----
+
 
 ### What I focus on
 
