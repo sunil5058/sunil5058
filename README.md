@@ -4,15 +4,6 @@
 <p align="center">
   I build reliable backend systems with Node.js, Express.js, MongoDB, and Docker focused on clean APIs, secure data handling, and deployment-ready services. Currently pursuing my Bachelor's in Computing.
 </p>
-
-<p align="center">
-  <a href="https://sunil-stha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?styhttps://github.com/sunil5058/sunil5058/edit/main/README.mdle=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/sunil-shrestha-760906363"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sunilshrestha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
 ###  Tech stack
 
 <p align="center">
