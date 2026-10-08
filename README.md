@@ -4,7 +4,7 @@
 <p align="center">
   I build reliable backend systems with Node.js, Express.js, MongoDB, and Docker focused on clean APIs, secure data handling, and deployment-ready services. Currently pursuing my Bachelor's in Computing.
 </p>
-###  Tech stack
+Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
